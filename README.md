@@ -573,6 +573,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Songsterr](https://www.songsterr.com/a/wa/api/) | Provides guitar, bass and drums tabs and chords | No | Yes | Unknown |
 | [SoundCloud](https://developers.soundcloud.com/) | Allow users to upload and share sounds | `OAuth` | Yes | Unknown |
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog, manage users' libraries, get recommendations and more | `OAuth` | Yes | Unknown |
+| [Synthesizer Api](https://synth-explorer.netlify.app) | Api to retrieve synths, images and specifications | `apiKey` | Yes | Yes |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Yes | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/api_guide.php) | Music | `apiKey` | Yes | Unknown |
 | [Vagalume](https://api.vagalume.com.br/docs/) | Crowdsourced lyrics and music knowledge | `apiKey` | Yes | Unknown |
